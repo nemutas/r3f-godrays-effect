@@ -12,4 +12,6 @@ https://nemutas.github.io/r3f-godrays-effect/
 * [Fallen Angel](https://skfb.ly/6SFvA)
 
 # Detail
-GodRaysに関して、Qiitaにまとめています。
+GodRaysに関して、Qiitaにまとめています。<br>
+
+[【React Three Fiber】GodRaysエフェクトの実装](https://qiita.com/nemutas/items/541fad4db8c5f3221a68)
