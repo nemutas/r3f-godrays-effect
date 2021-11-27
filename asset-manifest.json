@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/r3f-godrays-effect/static/css/main.a4619219.chunk.css",
-    "main.js": "/r3f-godrays-effect/static/js/main.ce955e83.chunk.js",
-    "main.js.map": "/r3f-godrays-effect/static/js/main.ce955e83.chunk.js.map",
+    "main.js": "/r3f-godrays-effect/static/js/main.86a142a9.chunk.js",
+    "main.js.map": "/r3f-godrays-effect/static/js/main.86a142a9.chunk.js.map",
     "runtime-main.js": "/r3f-godrays-effect/static/js/runtime-main.4981815c.js",
     "runtime-main.js.map": "/r3f-godrays-effect/static/js/runtime-main.4981815c.js.map",
     "static/js/2.39474dee.chunk.js": "/r3f-godrays-effect/static/js/2.39474dee.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4981815c.js",
     "static/js/2.39474dee.chunk.js",
     "static/css/main.a4619219.chunk.css",
-    "static/js/main.ce955e83.chunk.js"
+    "static/js/main.86a142a9.chunk.js"
   ]
 }
