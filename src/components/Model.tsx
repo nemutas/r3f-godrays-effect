@@ -18,7 +18,7 @@ type GLTFResult = GLTF & {
 	}
 }
 
-const ModelPath = '/assets/fallen_angel.glb'
+const ModelPath = process.env.PUBLIC_URL + '/assets/fallen_angel.glb'
 
 export const Model: VFC<JSX.IntrinsicElements['group']> = props => {
 	// add controller
