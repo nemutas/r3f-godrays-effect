@@ -46,6 +46,9 @@ const PointLight: VFC<PointLightProps> = ({ position }) => {
 				ref={lightRef}
 				color={color(datas.color).lighten(0.5).toHexString()}
 				intensity={1}
+				shadow-mapSize-width={512}
+				shadow-mapSize-height={512}
+				castShadow
 			/>
 		</mesh>
 	)
